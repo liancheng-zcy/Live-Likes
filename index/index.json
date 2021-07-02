@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "zang": "../components/zang/zang"
+  }
+}

@@ -1,0 +1,3 @@
+<view class="container">
+  <zang id="zang" width="150" height="400" bindtap="handleClick"/>
+</view>
